@@ -20,7 +20,7 @@ export const SOCIAL_DATA = {
     },
     {
       title: 'Resume',
-      url: '',
+      url: 'https://gokulraj-max.github.io/cv-main/',
       icon: ResumeIcon
     },
     {
