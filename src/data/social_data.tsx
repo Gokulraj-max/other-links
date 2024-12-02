@@ -56,6 +56,6 @@ export const SOCIAL_DATA = {
       icon: TelegramIcon
     }
   ],
-  communities: [ 
+  communities: [
   ]
 }
