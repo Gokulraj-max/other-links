@@ -15,7 +15,7 @@ export const SOCIAL_DATA = {
   contacts: [
     {
       title: 'Portfolio',
-      url: '',
+      url: 'https://gokulraj-max.github.io/main-portfolio/',
       icon: WebIcon
     },
     {
